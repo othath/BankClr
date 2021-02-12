@@ -1,0 +1,10 @@
+﻿  bankrecord.cpp
+C:\Users\othma\Documents\BANK PROJECT\bankrecord.cpp(127,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\othma\Documents\BANK PROJECT\bankrecord.cpp(127,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  MyForm.cpp
+C:\Users\othma\Documents\Pro\Pro\MyForm.h(2,9): fatal error C1083: Cannot open include file: 'Bankrecord.h': No such file or directory
+  MyForm11.cpp
+C:\Users\othma\Documents\Pro\Pro\MyForm11.h(2,10): fatal error C1083: Cannot open include file: 'Bankrecord.h': No such file or directory
+  Source.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...

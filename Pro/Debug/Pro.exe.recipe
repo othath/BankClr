@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\othma\Documents\BANK GUI CLR PROJ\Debug\Pro.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\othma\Documents\BANK GUI CLR PROJ\Pro\Resource.resx</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\othma\Documents\BANK GUI CLR PROJ\Pro\Debug\Pro.Resource.resources</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

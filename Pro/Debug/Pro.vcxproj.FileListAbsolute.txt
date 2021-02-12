@@ -1,0 +1,14 @@
+C:\Users\othma\Documents\Pro\Debug\Resource.resx
+C:\Users\othma\Documents\Pro\Debug\Pro.Resource.resources
+C:\Users\othma\Documents\Pro\Pro\Debug\Pro.MyForm.resources
+C:\Users\othma\Documents\Pro\Pro\Debug\Pro.MyForm11.resources
+C:\Users\othma\Documents\Pro\Pro\Debug\Pro.Resource.resources
+C:\Users\othma\Documents\Pro\Pro\Debug\Pro.vcxproj.GenerateResource.cache
+C:\Users\othma\Documents\Pro\Pro\Debug\Pro.vcxprojAssemblyReference.cache
+C:\Users\othma\Documents\BANK GUI CLR PROJ\Debug\Resource.resx
+C:\Users\othma\Documents\BANK GUI CLR PROJ\Debug\Pro.Resource.resources
+C:\Users\othma\Documents\BANK GUI CLR PROJ\Pro\Debug\Pro.vcxprojAssemblyReference.cache
+C:\Users\othma\Documents\BANK GUI CLR PROJ\Pro\Debug\Pro.MyForm.resources
+C:\Users\othma\Documents\BANK GUI CLR PROJ\Pro\Debug\Pro.MyForm11.resources
+C:\Users\othma\Documents\BANK GUI CLR PROJ\Pro\Debug\Pro.Resource.resources
+C:\Users\othma\Documents\BANK GUI CLR PROJ\Pro\Debug\Pro.vcxproj.GenerateResource.cache

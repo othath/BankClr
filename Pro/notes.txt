@@ -1,0 +1,2 @@
+this->BackgroundImage = gcnew System::Drawing::Bitmap("C:\\Users\\othma\\Documents\\Pro\\Pro\\bankimg.jpg");
+this->icon=gcnew System::drawing::icon("filepath.ico");
